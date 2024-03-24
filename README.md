@@ -32,49 +32,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-module experiment(
-
-    input a, b, c, d, w, x, y, z,
-    
-    output f1, f2
-);
-
-wire adash, bdash, cdash, ddash, ydash, zdash, wdash;
-
-not(adash, a);
-
-not(bdash, b);
-
-not(cdash, c);
-
-not(ddash, d);
-
-not(ydash, y);
-
-not(zdash, z);
-
-not(wdash, w);
-
-wire p, q, r, s, t, u, term1, term2, term3;
-
-and(p, bdash, ddash);
-
-and(q, adash, b, d);
-
-and(r, a, b, cdash);
-
-and(term1, ydash, z);
-
-and(term2, x, y);
-
-and(term3, w, y);
-
-or(f1, p, q, r);
-
-or(f2, term1, term2, term3);
-
-endmodule
-
+![Screenshot 2024-03-24 093251](https://github.com/VaradaramSK/BOOLEAN_FUNCTION_MINIMIZATION/assets/144356171/695e323d-cfc8-43e8-8560-0994c0488508)
+*/ Developed by : Varadaram SK
+Register no: 212223040232
 
 **RTL realization**
 
