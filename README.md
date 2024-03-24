@@ -37,7 +37,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Register no: 212223040232
 
-**RTL realization**
+
 
 **Output:**
 
