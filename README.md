@@ -34,6 +34,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 module experiment(
     input a, b, c, d, w, x, y, z,
+    
     output f1, f2
 );
 
@@ -56,13 +57,19 @@ not(wdash, w);
 wire p, q, r, s, t, u, term1, term2, term3;
 
 and(p, bdash, ddash);
+
 and(q, adash, b, d);
+
 and(r, a, b, cdash);
+
 and(term1, ydash, z);
+
 and(term2, x, y);
+
 and(term3, w, y);
 
 or(f1, p, q, r);
+
 or(f2, term1, term2, term3);
 
 endmodule
