@@ -35,7 +35,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![Screenshot 2024-03-24 093251](https://github.com/VaradaramSK/BOOLEAN_FUNCTION_MINIMIZATION/assets/144356171/695e323d-cfc8-43e8-8560-0994c0488508)
 */ Developed by : Varadaram SK
 
-Register no: 212223040232
+Register no: 212223040232/*
 
 
 
