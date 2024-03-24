@@ -38,12 +38,19 @@ module experiment(
 );
 
 wire adash, bdash, cdash, ddash, ydash, zdash, wdash;
+
 not(adash, a);
+
 not(bdash, b);
+
 not(cdash, c);
+
 not(ddash, d);
+
 not(ydash, y);
+
 not(zdash, z);
+
 not(wdash, w);
 
 wire p, q, r, s, t, u, term1, term2, term3;
