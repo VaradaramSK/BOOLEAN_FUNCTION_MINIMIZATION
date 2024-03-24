@@ -33,6 +33,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 module experiment(
+
     input a, b, c, d, w, x, y, z,
     
     output f1, f2
