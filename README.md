@@ -44,9 +44,10 @@ Register no: 212223040232
 ![experiment 2 screeenshot](https://github.com/VaradaramSK/BOOLEAN_FUNCTION_MINIMIZATION/assets/144356171/21fef92e-d37b-40dd-824a-2723c16864f6)
 
 
-**RTL**
+**RTL Timing Diagram**
 
-**Timing Diagram**
+![image](https://github.com/VaradaramSK/BOOLEAN_FUNCTION_MINIMIZATION/assets/144356171/1c2e6d14-f33b-47ba-98c0-ea594d1a042d)
+
 
 **Result:**
 
